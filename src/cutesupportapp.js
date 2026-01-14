@@ -46,13 +46,13 @@ const images = {
                 className="bg-gradient-to-r from-pink-500 to-purple-500 text-white py-3 px-6 rounded-2xl hover:scale-105 transition-transform shadow-lg font-bold"
                 onClick={() => setChoice("sad")}
               >
-                My baby is sad 💔
+                My Yoyy is sad ? 💔
               </button>
               <button
                 className="bg-gradient-to-r from-gray-700 to-gray-600 text-gray-100 py-3 px-6 rounded-2xl hover:scale-105 transition-transform shadow-md font-bold"
                 onClick={() => setChoice("notSad")}
               >
-                No 😌
+                No Yoyy is happy 😌
               </button>
             </div>
           )}
