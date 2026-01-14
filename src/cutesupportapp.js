@@ -6,11 +6,12 @@ export default function CuteSupportApp() {
   const [choice, setChoice] = useState(null);
 
   // Replace these paths with your own images in public/images/
-  const images = {
-    sad: "/images/sad_pic.png",
-    notSad: "/images/smile_pic.png",
-    default: "/images/default_pic.png",
-  };
+const images = {
+  sad: "/yoyy/images/sad_pic.png",
+  notSad: "/yoyy/images/smile_pic.png",
+  default: "/yoyy/images/default_pic.png",
+};
+
 
   return (
     <div className="min-h-screen bg-gray-900 flex items-center justify-center p-6 mt-10">
